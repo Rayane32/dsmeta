@@ -8,3 +8,5 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <App />
   </React.StrictMode>
 )
+ 
+//estrutura básica de aplicação react; aplicativo de renderização que conversa com o index.html
